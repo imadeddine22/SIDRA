@@ -41,7 +41,7 @@ export default function LandingPage() {
                                     <path d="M50 8L14 24v26c0 22 16 41 36 48 20-7 36-26 36-48V24L50 8z" stroke="#22d3ee" strokeWidth="7" strokeLinejoin="round" fill="none" />
                                     <polyline points="22,50 34,50 40,36 50,64 60,42 66,50 78,50" stroke="#22d3ee" strokeWidth="7" strokeLinecap="round" strokeLinejoin="round" fill="none" />
                                 </svg>
-                                <h3 className="text-xl font-bold">PULSE</h3>
+                                <h3 className="text-xl font-bold">SIDRA</h3>
                             </div>
                             <p className="text-gray-400 text-sm">
                                 L'assurance qui s'adapte à votre usage réel.
@@ -53,14 +53,14 @@ export default function LandingPage() {
                                 <li><a href="#hero" className="hover:text-pulse-accent transition-colors">Accueil</a></li>
                                 <li><a href="#insurance" className="hover:text-pulse-accent transition-colors">Mon assurance</a></li>
                                 <li><a href="#usage" className="hover:text-pulse-accent transition-colors">Usage & coût</a></li>
-                                <li><a href="#score" className="hover:text-pulse-accent transition-colors">Score PULSE</a></li>
+                                <li><a href="#score" className="hover:text-pulse-accent transition-colors">Score SIDRA</a></li>
                                 <li><a href="#partner" className="hover:text-pulse-accent transition-colors">Partenaires</a></li>
                             </ul>
                         </div>
                         <div>
                             <h4 className="font-semibold mb-4">Contact</h4>
                             <p className="text-sm text-gray-400">
-                                Contact@pulse.dz
+                                Contact@sidra.dz
 
                             </p>
                         </div>

@@ -194,7 +194,7 @@ export function Score() {
                         Votre profil
                     </span>
                     <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mt-4 mb-6">
-                        Score PULSE
+                        Score SIDRA
                     </h2>
                     <p className="text-lg text-gray-600 max-w-2xl mx-auto">
                         Votre score reflète vos habitudes d'utilisation et influence positivement votre coût dans le temps.
@@ -208,7 +208,7 @@ export function Score() {
                     <Card className="flex flex-col items-center space-y-6">
                         {/* Score badge */}
                         <div className="w-full flex items-center justify-between mb-2">
-                            <h3 className="text-lg font-bold text-gray-900">Score PULSE</h3>
+                            <h3 className="text-lg font-bold text-gray-900">Score SIDRA</h3>
                             <span className="text-xs font-bold px-3 py-1 rounded-full bg-emerald-100 text-emerald-700">78 / 100</span>
                         </div>
                         <CircularGauge value={78} max={100} size={240} strokeWidth={20} label="Bon score" />

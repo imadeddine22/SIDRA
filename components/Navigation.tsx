@@ -30,7 +30,7 @@ export function Navigation({ onMenuClick }: NavigationProps) {
                             <polyline points="22,50 34,50 40,36 50,64 60,42 66,50 78,50" stroke="#22d3ee" strokeWidth="7" strokeLinecap="round" strokeLinejoin="round" fill="none" />
                         </svg>
                         <span className={`text-xl font-bold ${scrolled ? 'text-gray-900' : 'text-white'}`}>
-                            PULSE
+                            SIDRA
                         </span>
                     </a>
 

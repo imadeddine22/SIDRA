@@ -43,7 +43,7 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                                 <path d="M50 8L14 24v26c0 22 16 41 36 48 20-7 36-26 36-48V24L50 8z" stroke="#22d3ee" strokeWidth="7" strokeLinejoin="round" fill="none" />
                                 <polyline points="22,50 34,50 40,36 50,64 60,42 66,50 78,50" stroke="#22d3ee" strokeWidth="7" strokeLinecap="round" strokeLinejoin="round" fill="none" />
                             </svg>
-                            <span className="text-xl font-bold text-gray-900">PULSE</span>
+                            <span className="text-xl font-bold text-gray-900">SIDRA</span>
                         </div>
                         <button
                             onClick={onClose}
